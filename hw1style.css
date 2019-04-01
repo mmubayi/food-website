@@ -1,0 +1,68 @@
+body {
+  background-color: seashell;
+}
+
+h1 {
+  font-size: 40px; 
+  margin-left: 10px;
+}
+
+h2 {
+  font-size: 20px;
+  margin-left: 20%;
+}
+
+ul {
+  font-family: "Optima", "Arial", sans-serif;
+  font-size: 20px;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 15%;
+  background-color: #9fdfbb;
+  position: fixed;
+  height: 100%;
+  overflow: auto;
+}
+
+li a {
+  display: block;
+  color: #00000;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+li a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+li a:hover:not(.active) {
+  background-color: #555;
+  color: white;
+}
+
+.restaurant {
+  font-family: "Optima", "Arial", sans-serif;
+  margin-left: 25%; 
+    
+}
+
+#description {
+  font-family: "Optima", "Arial", sans-serif;
+  margin-left: 20%; 
+    
+}
+
+#intro {
+  margin-left: 25%; 
+  margin-right: 32%;
+  font-family: "Optima", "Arial", sans-serif;
+    
+}
+
+.pagetitle {
+  font-family: "Optima", "Arial", sans-serif;
+  color: seagreen; 
+}
+

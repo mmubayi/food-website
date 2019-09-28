@@ -6,7 +6,7 @@ A simple website showing restaurant recommendations in Hong Kong for vegetarians
 
 ---
 
-This project was created using HTML and CSS for my Human Computer Interaction class. 
+This project was created using HTML and CSS for my Human Computer Interaction class (my first website ever).
 
 View the website [here](https://mmubayi.github.io/food-website/) here. 
 

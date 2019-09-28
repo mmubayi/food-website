@@ -8,8 +8,7 @@ A simple website showing restaurant recommendations in Hong Kong for vegetarians
 
 This project was created using HTML and CSS for my Human Computer Interaction class. 
 
-Currently, only Wellesley students can view the website [here](http://cs.wellesley.edu/~mmubayi/CS220/hw1.html).
-Working on this! 
+View the website [here](https://mmubayi.github.io/food-website/) here. 
 
 Planning to: 
 - add more recommendations
